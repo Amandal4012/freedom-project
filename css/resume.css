@@ -179,12 +179,3 @@ a:hover, a:focus, a:active {
 nav{
 color: green;
 }
-
-.navbar-custom { 
-background-color: lightgreen; 
-} 
-
-.navbar-custom .navbar-brand, 
-.navbar-custom .navbar-text { 
-color: green; 
-} 
