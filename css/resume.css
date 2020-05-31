@@ -32,6 +32,7 @@ h6 {
 h1 {
   font-size: 6rem;
   line-height: 5.5rem;
+  
 }
 
 h2 {
@@ -165,7 +166,7 @@ section.resume-section .resume-item .resume-date {
 }
 
 .text-primary {
-  color: #8FBC8F !important;
+  color: #8fbc8f; 
 }
 
 a {
@@ -179,3 +180,5 @@ a:hover, a:focus, a:active {
 nav{
 color: green;
 }
+
+
